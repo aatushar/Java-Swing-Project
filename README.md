@@ -61,3 +61,14 @@ Dashboard:
 • Performance Tracking: Analyze sales trends efficiently.
 ![ Home page](https://github.com/aatushar/Java-Swing-Project/blob/main/Asset/home%202.PNG)
 
+:pushpin: Sales:
+
+• Sales Recording: Capture all transactions accurately within the system, ensuring every sale is accounted for.
+
+• Billing System Integration: Seamlessly generate invoices or receipts for each transaction, providing customers with clear documentation of their purchases.
+
+• Inventory Update: Automatically update inventory levels upon completion of a sale, maintaining accurate stock records.
+
+• Sales Analysis: Utilize sales data to analyze trends, identify popular products, and make informed decisions regarding inventory management and marketing strategies.
+![ Sales page](https://github.com/aatushar/Java-Swing-Project/blob/main/Asset/Sales.PNG)
+

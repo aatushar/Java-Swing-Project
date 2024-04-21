@@ -33,7 +33,7 @@ The role of the Administrator in the Mobile Shop Management System is as follows
 
 ## Technologies used:-
 ### Front-End Development:
--  [<img src="Screenshot/Swing.png" width="80" height="80">](https://static.wixstatic.com/media/491201_f31d899a89664c7883a489e3a4698689~mv2.jpg/v1/fit/w_1000%2Ch_562%2Cal_c%2Cq_80,enc_auto/file.jpg) Java Swing
+-  [<img src="Screenshot/Swing.png" width="80" height="80">](https://github.com/aatushar/Java-Swing-Project/blob/main/Asset/file.webp) Java Swing
 -  [<img src="https://github.com/fatemazohor/fatemazohor/blob/main/svg/css3.svg" width="80" height="80">](https://github.com/fatemazohor)Css
 -  [<img src="https://github.com/fatemazohor/fatemazohor/blob/main/svg/javascript.svg" width="80" height="80">](https://github.com/fatemazohor) Javascript
 - [<img src="https://github.com/fatemazohor/fatemazohor/blob/main/svg/bootstrap-logo-shadow.png" width="80" height="80">](https://github.com/fatemazohor) BootStrap

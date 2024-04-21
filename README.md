@@ -107,3 +107,13 @@ Dashboard:
 • Proactive Maintenance: Use warranty information to schedule preventive maintenance or replacement of faulty devices, enhancing customer satisfaction and product reliability.
 
 ![Warranty Check](https://github.com/aatushar/Java-Swing-Project/blob/main/Asset/customer%20reg%206.PNG)
+
+
+:pushpin: .	Report :
+• Comprehensive Data Analysis: Generate detailed reports on purchases, sales, and stock levels to gain insights into business performance and trends.
+
+• Decision Support: Utilize reports to make informed decisions regarding inventory management, pricing strategies, and product offerings.
+
+• Compliance and Accountability: Use reports to ensure compliance with regulations, track financial performance, and maintain transparency in business operations.
+
+![Report](https://github.com/aatushar/Java-Swing-Project/blob/main/Asset/report%208.PNG)

@@ -52,3 +52,12 @@ Implement secure user authentication and authorization mechanisms to control acc
 
 ![ Login page](https://github.com/aatushar/Java-Swing-Project/blob/main/Asset/login%201.PNG)
 
+
+:pushpin: Dashboard page for Admin:
+Dashboard:
+• Today's Sales: Instantly see daily revenue.
+• Monthly Sales: Monitor month-to-date performance.
+• Instant Overview: Quick insights into revenue status.
+• Performance Tracking: Analyze sales trends efficiently.
+![ Home page](https://github.com/aatushar/Java-Swing-Project/blob/main/Asset/home%202.PNG)
+

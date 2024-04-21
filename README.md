@@ -72,3 +72,12 @@ Dashboard:
 • Sales Analysis: Utilize sales data to analyze trends, identify popular products, and make informed decisions regarding inventory management and marketing strategies.
 ![ Sales page](https://github.com/aatushar/Java-Swing-Project/blob/main/Asset/Sales.PNG)
 
+:pushpin: .	Purchase:
+
+• Procurement: Efficiently source products from suppliers to replenish inventory.
+
+• Inventory Management: Update stock levels upon receipt of purchased items, ensuring availability for sales.
+
+• Vendor Relations: Maintain positive relationships with suppliers for smooth procurement processes and favorable terms.
+![ Check-In page](https://github.com/aatushar/Java-Swing-Project/blob/main/Asset/purchase%204%20main.PNG)
+
